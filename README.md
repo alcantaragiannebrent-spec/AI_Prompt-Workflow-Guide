@@ -6,6 +6,10 @@ A practical toolkit for developers, computer science students, and technical lea
 
 Use the frameworks and templates in this guide with tools such as ChatGPT, Claude, or Gemini. Adapt the prompts to your language, codebase, course, and AI tool. AI can make mistakes: verify generated code, citations, explanations, and complexity claims before relying on them.
 
+## More tools
+
+- [Master Copilot Prompt: Feynman Study & Code OS](products/feynman-study-code-os/README.md) — a reusable VS Code prompt and printable PDF for learning computer science and reviewing Python or C++ code.
+
 ## What this guide helps you do
 
 - Write clearer technical prompts with the R-C-T-O framework.
