@@ -2,6 +2,8 @@
 
 A practical toolkit for developers, computer science students, and technical learners who want more useful, repeatable results from AI.
 
+[Download the printable PDF](AI-Prompt-and-Workflow-Guide.pdf)
+
 Use the frameworks and templates in this guide with tools such as ChatGPT, Claude, or Gemini. Adapt the prompts to your language, codebase, course, and AI tool. AI can make mistakes: verify generated code, citations, explanations, and complexity claims before relying on them.
 
 ## What this guide helps you do
